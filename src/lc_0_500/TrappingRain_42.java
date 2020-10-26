@@ -6,7 +6,7 @@
 package lc_0_500;
 
 /**
- Problem #403 [Hard]
+ Problem #42 [Hard]
  *  Title: Trapping rain
  *  Link: https://leetcode.com/problems/trapping-rain-water/
  *
